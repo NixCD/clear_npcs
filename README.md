@@ -1,2 +1,2 @@
-# nix_npcarmas
+# clearnpcs
 Clean a area of NPCS
