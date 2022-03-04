@@ -1,2 +1,2 @@
 # clearnpcs
-Clean a area of NPCS
+Clean a area of NPCS for ESX
